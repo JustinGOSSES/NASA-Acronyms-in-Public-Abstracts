@@ -5,6 +5,8 @@ Original dataset homepage: https://data.nasa.gov/Raw-Data/NASA-Acronyms-in-Publi
 
 This repo servers as a place to put this pulic dataset such that individual files can be accessed directly and not just the zip file of all of them. This is necessary in order to play around with the files in an OnservableNotebook without embedding them in the notebook. 
 
+For more information about NASA acronyms including a list of 25,000 NASA acronyms used in a browser addon that can find and define acronyms in whatever you're looking at with your browser, check out <a href="https://github.com/nasa/NASA-Acronyms">this repository</a>.
+
 
 ## Observable Notebook Explores Dataset
 
