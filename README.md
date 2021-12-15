@@ -12,8 +12,12 @@ For more information about NASA acronyms including a list of 25,000 NASA acronym
 
 <a href="https://observablehq.com/@justingosses/exploration-of-nasa-acronyms-with-multiple-meanings">https://observablehq.com/@justingosses/exploration-of-nasa-acronyms-with-multiple-meanings</a>
 
+#### Screenshots of the Observable Notebook (JavaScript)
+
+##### Chart showing how many acronyms occur in how many abstracts
 ![Chart showing how many acronyms occur in how many abstracts](acronyms_chart.png "Chart showing how many acronyms occur in how many abstracts")
 
+##### Additional Features of notebook
 ![Observable notebook](observablenotebook.png "Observable notebook")
 
 
