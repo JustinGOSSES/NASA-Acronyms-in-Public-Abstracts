@@ -1,7 +1,10 @@
 # NASA-Acronyms-in-Public-Abstracts
 NASA Acronyms in Public Abstracts from data.nasa.gov
 
-A place to put this pulic dataset https://data.nasa.gov/Raw-Data/NASA-Acronyms-in-Public-Abstracts/byqb-7uyn and play around with it
+Original dataset homepage: https://data.nasa.gov/Raw-Data/NASA-Acronyms-in-Public-Abstracts/byqb-7uyn 
+
+This repo servers as a place to put this pulic dataset such that individual files can be accessed directly and not just the zip file of all of them. This is necessary in order to play around with the files in an OnservableNotebook without embedding them in the notebook. 
+
 
 ## Observable Notebook Explores Dataset
 
