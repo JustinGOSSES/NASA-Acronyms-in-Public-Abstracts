@@ -3,7 +3,17 @@ NASA Acronyms in Public Abstracts from data.nasa.gov
 
 A place to put this pulic dataset https://data.nasa.gov/Raw-Data/NASA-Acronyms-in-Public-Abstracts/byqb-7uyn and play around with it
 
-## Dataset Description 
+## Observable Notebook Explores Dataset
+
+<a href="https://observablehq.com/@justingosses/exploration-of-nasa-acronyms-with-multiple-meanings">https://observablehq.com/@justingosses/exploration-of-nasa-acronyms-with-multiple-meanings</a>
+
+![Chart showing how many acronyms occur in how many abstracts](acronyms_chart.png "Chart showing how many acronyms occur in how many abstracts")
+
+![Observable notebook](observablenotebook.png "Observable notebook")
+
+
+
+## Dataset Description from dataset homepage 
 
 This dataset was created as a data source for machine-learning models used to disambiguate acronyms with multiple definitions. This dataset includes files that cover 406,005 abstracts. 484 acronyms with multiple definitions and multiple examples of use in different abstracts were extracted.
 
@@ -93,10 +103,3 @@ print(isinstance(result, dict))
 
 
 
-## Observable Notebook Explores Dataset
-
-<a href="https://observablehq.com/@justingosses/exploration-of-nasa-acronyms-with-multiple-meanings">https://observablehq.com/@justingosses/exploration-of-nasa-acronyms-with-multiple-meanings</a>
-
-![Chart showing how many acronyms occur in how many abstracts](acronyms_chart.png "Chart showing how many acronyms occur in how many abstracts")
-
-![Observable notebook](observablenotebook.png "Observable notebook")
