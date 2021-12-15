@@ -9,4 +9,4 @@ A place to put this pulic dataset https://data.nasa.gov/Raw-Data/NASA-Acronyms-i
 
 ![Chart showing how many acronyms occur in how many abstracts](acronyms_chart.png "Chart showing how many acronyms occur in how many abstracts")
 
-![Chart showing how many acronyms occur in how many abstracts](acronyms_chart.png "Chart showing how many acronyms occur in how many abstracts")
+![Observable notebook](Screen Shot 2021-12-15 at 9.42.10 AM.png "Observable notebook")
